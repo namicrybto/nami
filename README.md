@@ -1,0 +1,2 @@
+# nami
+all
